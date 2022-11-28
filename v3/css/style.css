@@ -1,0 +1,9 @@
+.link-transparent {
+    color: transparent !important;
+    text-decoration: none !important;
+} 
+
+#green-background {
+    background-color: green;
+    border-color: black;
+}
